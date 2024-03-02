@@ -2,9 +2,6 @@
 Number-System-Converter
 Convert any number system to other like Decimal, Binary, Octal, Hexadecimal.
 
-## Description
-Number System Converter can do the complex conversion for you quickly. Made using C language by Ganesh Mourya. Access the code files here
-
 ## This program can perform the following conversion:
 
 * Binary to Decimal
